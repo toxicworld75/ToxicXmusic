@@ -1,5 +1,5 @@
 {
-    "name": "ʟɪɢɪᴛ ダ ᴍᴜsɪᴄ",
+    "name": "ᴛᴏxɪᴄ ᴀʀᴊᴜɴ ダ ᴍᴜsɪᴄ",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/424dcd0513719de080db2.jpg",
     "keywords": [
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/sastatony",
+        "value": "https://t.me/privatearjun",
         "required": false
       }
     },
